@@ -13,3 +13,10 @@ https://github.com/Benetson/halotelslowndns.git
 * speed download 1 Mbps (Max Speed)
 * speed upload 6+ Mbps (Max Speed)
 * Support semua port ssh
+
+# Additional embedded examples
+## quic-go
+See `quic-go/README.md` for a minimal QUIC server/client example.
+
+## slipstream-server
+See `slipstream-server/README.md` for a minimal TCP slipstream-style echo server/client example.
